@@ -37,7 +37,7 @@ import InteresesComponente from './components/InteresesComponente.vue';
     </main>
     <footer>
         <a href="#top">Inicio</a>
-        <p>© 2024 Paula Cizmadija - Portafolio web - Tutorial UTN FRSR</p>
+        <p>© 2024 Paula Cizmadija - Portafolio web - </p>
     </footer>
 </template>
 
